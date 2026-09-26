@@ -1,3 +1,5 @@
+#Weak Enemy Script
+
 extends AnimatedSprite2D
 
 @onready var telegraph_timer: Timer = $TelegraphTimer
